@@ -28,3 +28,5 @@ Welcome to the Formatio Cloud Platform! Follow these simple steps to get started
    - Configure the workflow file to define the actions and processes you want Formatio to execute during your project's lifecycle.
 
 Congratulations! You have successfully set up and configured your project on the Formatio Cloud Platform. If your repositories are not listed during the connection process, make sure to update the GitHub app access to include the necessary repositories. Ensure that the Formatio GitHub App is integrated with the network record for optimal communication within your defined network. If you encounter any issues or have questions, feel free to consult our documentation or reach out to our support team for assistance. Happy coding!
+
+Link to YouTube video; https://youtu.be/mPOHXYZlmaI
